@@ -54,3 +54,15 @@ Information security of Raya Samanei Sharif Research Institute, specialist in mo
 <h2>Scientific abilities</h2>
 <img src="https://camo.githubusercontent.com/c1f8081131fb77b99f863c502596c7cd4bdd8b5554e5d29833d18f7ea6ad44df/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769746875622c6769742c646f636b65722c7068702c72656163742c6d642c632c6370702c63732c6373732c68746d6c2c6a732c74732c7461696c77696e642c73776966742c7376656c74652c76696d2c6e656f76696d2c7673636f64652c76697375616c73747564696f2c6669676d612c61692c70732c78642c626c656e6465722c756e6974792c756e7265616c2c66697265626173652c646973636f72642c61626c65746f6e" data-canonical-src="https://skillicons.dev/icons?i=github,git,docker,php,react,md,c,cpp,cs,css,html,js,ts,tailwind,swift,svelte,vim,neovim,vscode,visualstudio,figma,ai,ps,xd,blender,unity,unreal,firebase,discord,ableton" style="max-width: 100%;">
 
+
+
+<img src="/AlbertSolomon/AlbertSolomon/raw/main/profile-3d-contrib/profile-night-rainbow.svg" style="max-width: 100%;">
+
+<h2>Research and research activities</h2>
+
+Manager of the R&D and Research Team of Omid Railcom Software, Leader of the R&D Team of the National Broadband Transit Project between
+International with DWDM technology through optical fiber from the UAE to Turkey with a speed of 8 terabits per second
+Optical fiber operated by the Islamic Republic of Iran Railway Company
+
+Project manager of Net Ostad online classes streaming system and Net Ostad portal with more than 18,000 active users.
+It is a platform for providing live streaming in the form of video, file and audio for online classes.
