@@ -27,6 +27,30 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e7eb6839f0d42fffcd7435133609f4fe6a2cad787439321d809c273d66ac4c77/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e7eb6839f0d42fffcd7435133609f4fe6a2cad787439321d809c273d66ac4c77/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/eslint-icon.svg" style="max-width: 100%;"></a>
 
 
-<img src="/crutchcorn/crutchcorn/raw/master/header.png" alt="Hi, I'm Amirsamrozveelt, developer and Information security manager " style="max-width: 100%;">
+<strong>Welcome to my Profile</strong>
 
+<pre><span class="pl-k">struct</span> <span class="pl-en">Nevio</span>: <span class="pl-e">Developer {</span>
+  <span class="pl-e">let name =</span> "<span class="pl-e">Amir samrozvelt"</span>
+  <span class="pl-e">let pronouns =</span> "<span class="pl-e">he/him/his"</span>
+  <span class="pl-e">let role =</span> "<span class="pl-e">network &amp;</span> <span class="pl-e">Chief Information Security Manager and Security Consultant"</span>
+  <span class="pl-e">let location =</span> <span class="pl-e">Coordinate2D(</span>51.165691, 10.451526),  <span class="pl-c"><span class="pl-c">//</span> iran.tehran</span>
+  <span class="pl-e">let languages =</span> ["<span class="pl-e">de_DE"</span>, "<span class="pl-e">en_US"</span>, "<span class="pl-e">ita_ITA"</span>, "<span class="pl-e">russian"</span>]
+  <span class="pl-e">let skills =</span> ["<span class="pl-e">python"</span>, "<span class="pl-e">Cpp"</span>, "<span class="pl-e">C"</span>, "<span class="pl-e">JavaScript"</span>, "<span class="pl-e">assembly"</span>, "<span class="pl-e">perl"</span>, "<span class="pl-e">ruby"</span>]
+  <span class="pl-e">let favouriteLanguage =</span> ["<span class="pl-e">Swift"</span>, "<span class="pl-e">Cpp"</span>]
+  
+  <span class="pl-e">func sayHi(</span>) {
+    <span class="pl-c1">print</span>(<span class="pl-s"><span class="pl-pds">"</span>Hey, thanks for dropping by, feel free to have a look at my work! 🙂<span class="pl-pds">"</span></span>)
+  }
+}
+
+<span class="pl-k">let</span> me <span class="pl-k">=</span> <span class="pl-c1">Amir</span>()
+me.<span class="pl-c1">sayHi</span>()</pre>
+
+<h2>About Me</h2>
+A computer expert at Amir Kabir University of Technology, a master's student in secure computing at the research institute
+Amir Kabir University of Technology, Senior Director of Information Security, active in the fields of network security, infrastructure and data science
+Information security of Raya Samanei Sharif Research Institute, specialist in modern information technology security
+
+<h2>Scientific abilities</h2>
+<img src="https://camo.githubusercontent.com/c1f8081131fb77b99f863c502596c7cd4bdd8b5554e5d29833d18f7ea6ad44df/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769746875622c6769742c646f636b65722c7068702c72656163742c6d642c632c6370702c63732c6373732c68746d6c2c6a732c74732c7461696c77696e642c73776966742c7376656c74652c76696d2c6e656f76696d2c7673636f64652c76697375616c73747564696f2c6669676d612c61692c70732c78642c626c656e6465722c756e6974792c756e7265616c2c66697265626173652c646973636f72642c61626c65746f6e" data-canonical-src="https://skillicons.dev/icons?i=github,git,docker,php,react,md,c,cpp,cs,css,html,js,ts,tailwind,swift,svelte,vim,neovim,vscode,visualstudio,figma,ai,ps,xd,blender,unity,unreal,firebase,discord,ableton" style="max-width: 100%;">
 
