@@ -1,3 +1,6 @@
+<img width="100%" src="https://camo.githubusercontent.com/ca35ba1036cd22b4a034b335440e37604cc30029f1a60a046315b45c6abb8c7b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d376530343765266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=7e047e&amp;height=120&amp;section=header" style="max-width: 100%;">
+
+
 
 
 
@@ -83,11 +86,8 @@ Operating system security
 Information security engineering
 
 
-<h2> Languages ​​of specialized programs :</h2>
- Python.javascript.ruby.perl.C++.C.Assembly.Go
-
-
-
 
 <img align="right" alt="sheikh python" src="https://camo.githubusercontent.com/e1a3be119ba52744b2cf2f077b53893691c701d04215752d4c66f6bac752c295/68747470733a2f2f7777772e67696663656e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31312f6861636b65722d6769662d382e676966" data-canonical-src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
+
+<img width="100%" src="https://camo.githubusercontent.com/cde6ba5ec3e2ae67d8619cb58d4e95e275292cabf3507e10a1798b5f07f50450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d376530343765266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=7e047e&amp;height=120&amp;section=footer" style="max-width: 100%;">
