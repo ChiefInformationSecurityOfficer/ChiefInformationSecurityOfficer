@@ -1,4 +1,3 @@
-![image](https://github.com/ChiefInformationSecurityOfficer/ChiefInformationSecurityOfficer/assets/154739563/c246563c-363e-4845-bb47-83b40faa2d5d)<img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="MasterHead" style="max-width: 100%;">
 
 
 
@@ -9,19 +8,6 @@
 
 -->
 <h1 dir="auto"><a id="user-content--im-nico-filips-a-backend-developer-from-augsburg-germany" class="anchor" aria-hidden="true" tabindex="-1" href="#-im-nico-filips-a-backend-developer-from-augsburg-germany"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💫 I'm Amir Rezvani, A Chief Information Security Manager from tehran, iran.</h1>
-
-
-
-<h2>Programming language : </h2>
-
-<a href="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/ba8muy2k2cks_47cq.jpeg" border="0" alt="آپلود عکس" /></a>
-
-
-
-
-
-
-
 
 
 <img src="https://camo.githubusercontent.com/d05aa7cd9d00b79f17bf197eddf08625005413b8ed5208a05f447d9cf19e0632/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c74732c74687265656a732c7068702c6a6176612c70792c676f2c736f6c69646974792c73776966742c6b6f746c696e" data-canonical-src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,php,java,py,go,solidity,swift,kotlin" style="max-width: 100%;">
