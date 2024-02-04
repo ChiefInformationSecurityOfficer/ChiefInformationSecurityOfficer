@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="MasterHead" style="max-width: 100%;">
 
 
 
@@ -10,17 +10,18 @@
 -->
 <h1 dir="auto"><a id="user-content--im-nico-filips-a-backend-developer-from-augsburg-germany" class="anchor" aria-hidden="true" tabindex="-1" href="#-im-nico-filips-a-backend-developer-from-augsburg-germany"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💫 I'm Amir Rezvani, A Chief Information Security Manager from tehran, iran.</h1>
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM1MTYyMjgsIm5iZiI6MTcwMzUxNTkyOCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI1VDE0NTIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5Y2JjYzA0NzhjNjU4NTZhNzRlNDYwYmVkZjY4MDg4NWQyM2RhODQ5YzdjMDE5OWFlZmNmNTE3YzZlNzNlOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NqOKLe4Ox0NQ140-rmTb3L-8rphvcm1u4t5a1RP7ois" alt="MasterHead" secured-asset-link="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://camo.githubusercontent.com/d05aa7cd9d00b79f17bf197eddf08625005413b8ed5208a05f447d9cf19e0632/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c74732c74687265656a732c7068702c6a6176612c70792c676f2c736f6c69646974792c73776966742c6b6f746c696e" data-canonical-src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,php,java,py,go,solidity,swift,kotlin" style="max-width: 100%;">
+
+<h2>Frameworks And Skills </h2>
+
+<img src="https://camo.githubusercontent.com/f4907a4771187f04896c83299eeedb969f37d2a22147b3a2bae715bd77c98fa2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f7473747261702c7461696c77696e642c72656163742c72656475782c6e6578746a732c7675652c6e7578746a732c616e67756c61722c6e6f64656a732c657870726573732c646a616e676f2c666c61736b2c6c61726176656c2c666c75747465722c737072696e672c6669676d612c776562666c6f772c776f726470726573732c7079746f7263682c74656e736f72666c6f77" data-canonical-src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,flutter,spring,figma,webflow,wordpress,pytorch,tensorflow" style="max-width: 100%;">
 
 
+<h2>⚡️Other Essentials: </h2>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/acfdbb9e9d0e1be2c68dc2481bb736ba07189035640a758394ef83a155b8d5d7/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/acfdbb9e9d0e1be2c68dc2481bb736ba07189035640a758394ef83a155b8d5d7/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a>
-<img src="https://camo.githubusercontent.com/7659f246bfe0c709dd396799463f073b97d55fc4c2a884ba27005389fac45b73/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/graphql-icon.svg" style="max-width: 100%;">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e7eb6839f0d42fffcd7435133609f4fe6a2cad787439321d809c273d66ac4c77/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e7eb6839f0d42fffcd7435133609f4fe6a2cad787439321d809c273d66ac4c77/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/eslint-icon.svg" style="max-width: 100%;"></a>
+<img src="https://camo.githubusercontent.com/19ad6fab89672803697998aec16527afb060065210f5b7954a7a61e3a0f39c21/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746c61622c6769746875622c706f7765727368656c6c2c6c696e75782c646f636b65722c6b756265726e657465732c6e67696e782c6865726f6b752c6e65746c6966792c76657263656c2c636c6f7564666c6172652c6177732c6763702c617a7572652c61692c626f7473" data-canonical-src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" style="max-width: 100%;">
+
+
 
 
 <strong>Welcome to my Profile</strong>
@@ -47,12 +48,15 @@ A computer expert at Amir Kabir University of Technology, a master's student in 
 Amir Kabir University of Technology, Senior Director of Information Security, active in the fields of network security, infrastructure and data science
 Information security of Raya Samanei Sharif Research Institute, specialist in modern information technology security
 
-<h2>Scientific abilities</h2>
-<img src="https://camo.githubusercontent.com/c1f8081131fb77b99f863c502596c7cd4bdd8b5554e5d29833d18f7ea6ad44df/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769746875622c6769742c646f636b65722c7068702c72656163742c6d642c632c6370702c63732c6373732c68746d6c2c6a732c74732c7461696c77696e642c73776966742c7376656c74652c76696d2c6e656f76696d2c7673636f64652c76697375616c73747564696f2c6669676d612c61692c70732c78642c626c656e6465722c756e6974792c756e7265616c2c66697265626173652c646973636f72642c61626c65746f6e" data-canonical-src="https://skillicons.dev/icons?i=github,git,docker,php,react,md,c,cpp,cs,css,html,js,ts,tailwind,swift,svelte,vim,neovim,vscode,visualstudio,figma,ai,ps,xd,blender,unity,unreal,firebase,discord,ableton" style="max-width: 100%;">
+
+<h2>Scientific Articles:</h2>
+
+The security architecture of controlling industrial automation services in the platform of blockchain artificial intelligence and networks
+Isolation in sensitive industries
+
+Fingerprint identification with neural network algorithm
 
 
-
-<img src="/AlbertSolomon/AlbertSolomon/raw/main/profile-3d-contrib/profile-night-rainbow.svg" style="max-width: 100%;">
 
 <h2>Research and research activities</h2>
 
