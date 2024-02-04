@@ -68,3 +68,8 @@ Optical fiber operated by the Islamic Republic of Iran Railway Company
 
 Project manager of Net Ostad online classes streaming system and Net Ostad portal with more than 18,000 active users.
 It is a platform for providing live streaming in the form of video, file and audio for online classes.
+
+
+
+<img align="right" alt="sheikh python" src="https://camo.githubusercontent.com/e1a3be119ba52744b2cf2f077b53893691c701d04215752d4c66f6bac752c295/68747470733a2f2f7777772e67696663656e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31312f6861636b65722d6769662d382e676966" data-canonical-src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
